@@ -39,12 +39,14 @@ headers = {
     "Content-Type": "application/json"
 }
 ```
+
 * Check the path of sample data file of `data_input.py`.
 ```python
 with open("Path of Your Sample Data") as f:
     for line in f:
         pass
 ```
+
 * Run script
 ```
 $ python data_input.py
