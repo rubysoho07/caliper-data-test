@@ -12,7 +12,8 @@ Tester program for putting data to OpenLRW.
 
 1. Install OpenLRW
 
-See `README.md` file in OpenLRW GitHub.
+See `README.md` file in OpenLRW GitHub repository.
+
 2. Build virtual environment with `virtualenv`
 ```
 $ pip install virtualenv
